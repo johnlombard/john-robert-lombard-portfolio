@@ -42,7 +42,7 @@ const Home = () => (
       <div className="row justify-content-center">
         <div className="col-12 col-lg-6 col-md-8 align-items-center ">
           <h1 className="align-items-center" >John Robert Lombard</h1>
-          <h5 className="align-center"  >Front End Developer</h5>
+          <h5 className="align-center"  >Developer</h5>
           <a className="align-center" style={styles.icons} href="https://github.com/johnlombard" rel="noopener noreferrer" className="fab fa-github" target="_blank"> </a>
           <a className="align-center" style={styles.icons} href="https://www.linkedin.com/in/johnlombard1996/" rel="noopener noreferrer" className="fab fa-linkedin" target="_blank"> </a>
           <a className="align-center" style={styles.icons} href="https://www.goodreads.com/user/show/60952740-john" rel="noopener noreferrer" className="fab fa-goodreads" target="_blank"> </a>

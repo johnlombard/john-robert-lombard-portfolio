@@ -99,7 +99,7 @@ class Art extends React.Component {
             <div className="row justify-content-center">
               <div className="col-12 col-lg-6 col-md-8 align-center">
                 {/* Center Jumbotron Text */}
-                <h2 className="mbr-section-title align-center mbr-fonts-style mbr-bold mbr-white display-1">art</h2>
+                <h2 className="mbr-section-title align-center mbr-fonts-style mbr-bold mbr-white display-1">Art</h2>
               </div>
             </div>
           </div>
