@@ -22,7 +22,7 @@ const projects = [
     technologies: 'JavaScript, React.js. Passport.js, Express, Node.js, MongoDB, HTML, CSS, Bootstrap',
     alt: 'My Financial Friend Home Page',
     github: 'https://github.com/johnlombard/my-financial-friend',
-    demo: ''
+    demo: 'https://my-fin-friend.herokuapp.com/'
   },
 
   {
